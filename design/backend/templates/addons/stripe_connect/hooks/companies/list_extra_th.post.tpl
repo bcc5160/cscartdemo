@@ -1,1 +1,0 @@
-<th>{__("stripe_connect.stripe_account")}</th>
